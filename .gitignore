@@ -5,3 +5,6 @@
 .obsidian/
 
 aipm-ideation.code-workspace
+
+# 실제 아이디어 작업 공간 — structure/에서 복제해 로컬에서만 관리 (공유 레포에는 올리지 않음)
+my-idea/

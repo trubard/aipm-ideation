@@ -9,4 +9,4 @@ NorthStar → Aha Moment → AARRR → MVP 스펙 → PRD(1페이저/상세) →
 
 **다음 단계 게이트**: MVP 가설이 실제로 검증되면 → 본개발/스핀아웃으로 이관.
 
-> 규칙 → [../README.md](../README.md)
+> 규칙 → [../README.md](../../README.md)
