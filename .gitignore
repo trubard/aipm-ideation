@@ -8,3 +8,7 @@ aipm-ideation.code-workspace
 
 # 실제 아이디어 작업 공간 — structure/에서 복제해 로컬에서만 관리 (공유 레포에는 올리지 않음)
 my-idea/
+
+# 트렌드 리포트 원문 — 저작권 이슈로 배포 제외. 폴더 골격·README(사용법)만 공유한다.
+structure/10_아이디어풀/트렌드리포트/*
+!structure/10_아이디어풀/트렌드리포트/README.md
